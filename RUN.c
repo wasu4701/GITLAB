@@ -17,7 +17,7 @@ int main()
 
     //step 3
     for(i=0; i<5; i++){
-        printf("outputHelloooooooo : %.2f \n", input[i]);
+        printf("outputHelloerwrwerweooooooo : %.2f \n", input[i]);
         sum += input[i];
     }
 
