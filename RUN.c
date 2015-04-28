@@ -1,5 +1,5 @@
 #include <stdio.h>
- 
+
 int main()
 {
     //step 1
@@ -12,17 +12,17 @@ int main()
         scanf("%f", &input[i]);
         i++;
     }while(i<5);
-     
+
     printf("\n\n");
-     
+
     //step 3
     for(i=0; i<5; i++){
-        printf("output : %.2f \n", input[i]);
+        printf("outputHelloooooooo : %.2f \n", input[i]);
         sum += input[i];
     }
-     
+
     //step 4
     printf("\nSum total is %.2f \n\n", sum);
- 
+
     return 0;
 }
